@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1583246312 source:f:\proiecte\comp.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<string>
+	"comp.h"
+	<math.h>
+
+1583248145 f:\proiecte\comp.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<string>
+
+1583245780 source:f:\proiecte\main.cpp
+	<iostream>
+	"comp.h"
+
